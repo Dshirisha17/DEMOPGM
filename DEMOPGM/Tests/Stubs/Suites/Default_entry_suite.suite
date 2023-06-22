@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XaSuite xmlns="http://www.xact.dk/xatester/v/1" name="Default_entry_suite" haltAtFailure="false">
+  <Description />
+  <XaUnits />
+</XaSuite>
